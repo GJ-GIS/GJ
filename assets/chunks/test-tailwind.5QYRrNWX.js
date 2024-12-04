@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,j as s}from"./framework.DIpEmB6A.js";const o={},c={class:"flex gap-4"};function r(i,e){return a(),n("div",c,e[0]||(e[0]=[s("span",{class:"bg-orange-300 px-2 text-black"},"这是tailwindCSS背景颜色示例",-1),s("span",{class:"text-orange-400"},"这是tailwindCSS字体颜色示例",-1)]))}const _=t(o,[["render",r]]);export{_ as t};
